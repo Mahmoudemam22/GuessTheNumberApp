@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db
+
+# Node/React
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+
+# Common
+*.log
+.env
+.DS_Store

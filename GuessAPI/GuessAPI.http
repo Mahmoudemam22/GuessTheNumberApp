@@ -1,0 +1,6 @@
+@GuessAPI_HostAddress = http://localhost:5272
+
+GET {{GuessAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
