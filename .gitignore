@@ -7,10 +7,10 @@ obj/
 *.db
 
 # Node/React
-frontend/node_modules/
-frontend/.env
-frontend/dist/
-frontend/build/
+client/node_modules/
+client/.env
+client/dist/
+client/build/
 
 # Common
 *.log
